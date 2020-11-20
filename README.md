@@ -1,2 +1,2 @@
-# colating-rime-ime
-Rime框架备份
+# rime-copy
+Rime输入法框架的备份。
